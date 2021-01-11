@@ -3,6 +3,8 @@
  */
 package input;
 
+import java.util.Scanner;
+
 /**
  * @author Gyuris Csaba
  *
@@ -23,8 +25,10 @@ public class MyInput {
         // F1.03 Az "ev" egész típusú változó. Egy egész szám tárolására alkalmas.
         // F1.04 Scanner osztály példányosítása. 
         //       A Scenner osztály segítségével történik az adatbeolvasás.
-        Scanner in=new Scanner(System.in)
-        int year;               
+        // F1.05 Egy egész szám beolvasása a konzolról. A beolvasott számot
+        //       a year változóba tároljuk el.
+        Scanner in=new Scanner(System.in);
+        int year=in.nextInt();               
         
 	}
 
