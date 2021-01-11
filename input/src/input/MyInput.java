@@ -16,6 +16,10 @@ public class MyInput {
 		// Feladat
 		// F1.01 Írja meg azt a programot amely egy a egész számot kér be 
 		// a következõ szöveggel: "Adja meg a születési évét:".
+		
+		// F1.02 Szöveg kiírása a képernyõre. A szöveg végén nincs új sor karakter!
+        System.out.print("Adja meg a születési évét:");
+        
 	}
 
 }
