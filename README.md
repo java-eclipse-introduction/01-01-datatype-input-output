@@ -3,7 +3,7 @@
 ## Tartalom:<br/>
 ### 1. Adatbeolvasás <br/>
 #### 01-input brench<br/>
-####Adatbeolvasás<br/>
+#### Adatbeolvasás<br/>
 Használható tagek:<br/>
 * F1.01           Feladat.<br/>
 * F1.02           Szöveg kiírása a képernyőre. A szöveg végén nincs új sor karakter!<br/>
