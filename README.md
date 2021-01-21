@@ -12,6 +12,6 @@ Használható tagek:<br/>
 * F1.05           Az egész szám beolvasása és eltárolása.<br/>
 #### 02-output branch<br/>
 #### Adat megjelenítése a képernyőn.<br/>
-*O1.01           Feladat<br/>
-*O1.02           A megoldásban a System osztály használjuk.<br/>
+* O1.01           Feladat<br/>
+* O1.02           A megoldásban a System osztály használjuk.<br/>
 
