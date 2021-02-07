@@ -1,4 +1,4 @@
-# 01-datatype-input-output adattár
+# 01-01-datatype-input-output adattár
 # Adattípusok, adatbeolvasás és adatmegjelenítés
 ## Tartalom:<br/>
 ### 1. Adatbeolvasás <br/>
